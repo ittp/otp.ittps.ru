@@ -1,4 +1,6 @@
 main:
+  - title: "Auth"
+    url: /auth/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
